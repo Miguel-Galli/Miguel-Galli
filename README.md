@@ -1,4 +1,4 @@
-# Buenas! Me chamo Miguel Guedes de Oliveira ! 
+# Buenas! Me chamo Miguel Guedes de Oliveira! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 <p>
