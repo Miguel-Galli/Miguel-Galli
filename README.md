@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 <p>
-  Esse é meu GitHub, onde estão meus projetos pessoais que criei com fins educativos.
+  Esse é meu GitHub, onde estão meus projetos pessoais.
   
 </p>
 
